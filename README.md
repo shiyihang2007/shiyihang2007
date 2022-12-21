@@ -1,4 +1,1 @@
 - Hi, I’m @shiyihang2007.
-- I'm a 16-year-old Chinese middle school student.
-- I've studied the C/C++ development, and I've made some [interesting things](https://github.com/shiyihang2007/Micro-Console-Games), too.
-- If you have some good ideas or suggestions, you can e-mail me at [467557146@qq.com](mail://467557146@qq.com).
